@@ -1,0 +1,64 @@
+[
+  {
+    "course_code": "CS101",
+    "course_name": "Programming Basics",
+    "day": "Monday",
+    "start_time": "09:00",
+    "end_time": "10:30",
+    "room": "Room 101",
+    "instructor": "Dr. Smith",
+    "type": "Lecture"
+  },
+  {
+    "course_code": "CS101",
+    "course_name": "Programming Basics",
+    "day": "Wednesday",
+    "start_time": "09:00",
+    "end_time": "10:30",
+    "room": "Room 101",
+    "instructor": "Dr. Smith",
+    "type": "Lecture"
+  },
+  {
+    "course_code": "MATH101",
+    "course_name": "Calculus I",
+    "day": "Tuesday",
+    "start_time": "11:00",
+    "end_time": "12:30",
+    "room": "Room 201",
+    "instructor": "Prof. Johnson",
+    "type": "Lecture"
+  },
+  {
+    "course_code": "ENG101",
+    "course_name": "English Composition",
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "15:30",
+    "room": "Room 301",
+    "instructor": "Prof. Williams",
+    "type": "Lecture"
+  },
+  {
+    "course_code": "CS101",
+    "course_name": "Programming Basics",
+    "day": "Monday",
+    "start_time": "09:00",
+    "end_time": "10:30",
+    "room": "Room 501",
+    "instructor": "IKRAM",
+    "type": "Lab",
+    "added_date": "2025-12-26"
+  },
+  {
+    "course_code": "PHY101",
+    "course_name": "Physics I",
+    "day": "Wednesday",
+    "start_time": "09:00",
+    "end_time": "10:30",
+    "room": "7525",
+    "instructor": "Dr. Adnan Khan",
+    "type": "Lecture",
+    "added_date": "2025-12-29"
+  }
+]

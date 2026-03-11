@@ -1,0 +1,20 @@
+[
+  {
+    "title": "A number is odd or Even",
+    "course": "Programming Basics",
+    "due_date": "2025-12-31",
+    "total_marks": 100,
+    "description": "enter a number whether it is odd or even",
+    "created": "2025-12-26",
+    "status": "Active"
+  },
+  {
+    "title": "Finding prime number",
+    "course": "Programming Basics",
+    "due_date": "2025-12-31",
+    "total_marks": 100,
+    "description": "Enter a number from user and then find is this number is prime or not",
+    "created": "2025-12-29",
+    "status": "Active"
+  }
+]

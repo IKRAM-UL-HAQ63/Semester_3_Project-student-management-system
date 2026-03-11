@@ -1,0 +1,128 @@
+[
+  {
+    "student_roll": "2024001",
+    "course_code": "CS101",
+    "semester": "Winter 2024",
+    "enrollment_date": "2025-12-26",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "5",
+    "course_code": "CS101",
+    "semester": "Winter 2024",
+    "enrollment_date": "2025-12-26",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "23",
+    "course_code": "CS101",
+    "semester": "Winter 2024",
+    "enrollment_date": "2025-12-26",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "4",
+    "course_code": "CS101",
+    "semester": "Summer 2024",
+    "enrollment_date": "2025-12-29",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "B202416010126",
+    "course_code": "OOP101",
+    "semester": "Summer 2024",
+    "enrollment_date": "2025-12-29",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "3",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "17",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "25",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "24",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "30",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "16",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "36",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "37",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "44",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "58",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "41",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "39",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  },
+  {
+    "student_roll": "32",
+    "course_code": "CS101",
+    "semester": "Fall 2024",
+    "enrollment_date": "2025-12-30",
+    "status": "Enrolled"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "code": "CS101",
+    "name": "Programming Basics",
+    "credits": 3,
+    "instructor": "Dr. Smith",
+    "department": "Computer Science"
+  },
+  {
+    "code": "MATH101",
+    "name": "Calculus I",
+    "credits": 4,
+    "instructor": "Prof. Johnson",
+    "department": "Mathematics"
+  },
+  {
+    "code": "ENG101",
+    "name": "English Composition",
+    "credits": 3,
+    "instructor": "Prof. Williams",
+    "department": "English"
+  },
+  {
+    "code": "PHY101",
+    "name": "Physics I",
+    "credits": 4,
+    "instructor": "Dr. Brown",
+    "department": "Physics"
+  },
+  {
+    "code": "BUS101",
+    "name": "Introduction to Business",
+    "credits": 3,
+    "instructor": "Prof. Davis",
+    "department": "Business"
+  },
+  {
+    "code": "OOP101",
+    "name": "Object Oriented Programming",
+    "credits": 4,
+    "instructor": "Dr. Adnan Khan",
+    "department": "Computer Science",
+    "schedule": "Mon/Wed 14:20-15:55",
+    "room": "7525",
+    "prerequisites": "Basic Of Programming",
+    "description": ""
+  }
+]

@@ -1,0 +1,516 @@
+[
+  {
+    "id": "S001",
+    "name": "John Doe",
+    "roll_no": "2024001",
+    "email": "john@email.com",
+    "phone": "1234567890",
+    "program": "Computer Science",
+    "status": "Active",
+    "address": "123 Main St",
+    "dob": "2000-01-01"
+  },
+  {
+    "id": "S002",
+    "name": "Jane Smith",
+    "roll_no": "2024002",
+    "email": "jane@email.com",
+    "phone": "0987654321",
+    "program": "Engineering",
+    "status": "Active",
+    "address": "456 Oak Ave",
+    "dob": "2000-02-15"
+  },
+  {
+    "name": "Ali Khan",
+    "roll_no": 1,
+    "marks": 85,
+    "id": "S003",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Ahmed Raza",
+    "roll_no": 2,
+    "marks": 78,
+    "id": "S004",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Muhammad Usman",
+    "roll_no": 3,
+    "marks": 92,
+    "id": "S005",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Hassan Ali",
+    "roll_no": 4,
+    "marks": 88,
+    "id": "S006",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Bilal Ahmed",
+    "roll_no": 5,
+    "marks": 74,
+    "id": "S007",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Usama Tariq",
+    "roll_no": 6,
+    "marks": 69,
+    "id": "S008",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Fahad Mahmood",
+    "roll_no": 7,
+    "marks": 81,
+    "id": "S009",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Saad Hussain",
+    "roll_no": 8,
+    "marks": 90,
+    "id": "S010",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Awais Malik",
+    "roll_no": 9,
+    "marks": 76,
+    "id": "S011",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Imran Shah",
+    "roll_no": 10,
+    "marks": 83,
+    "id": "S012",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Hamza Farooq",
+    "roll_no": 11,
+    "marks": 87,
+    "id": "S013",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Zain Abbas",
+    "roll_no": 12,
+    "marks": 72,
+    "id": "S014",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Asad Iqbal",
+    "roll_no": 13,
+    "marks": 95,
+    "id": "S015",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Talha Yousaf",
+    "roll_no": 14,
+    "marks": 68,
+    "id": "S016",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Shahzaib Khan",
+    "roll_no": 15,
+    "marks": 80,
+    "id": "S017",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Yasir Nawaz",
+    "roll_no": 16,
+    "marks": 77,
+    "id": "S018",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Danish Ali",
+    "roll_no": 17,
+    "marks": 84,
+    "id": "S019",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Kashif Mehmood",
+    "roll_no": 18,
+    "marks": 71,
+    "id": "S020",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Noman Siddique",
+    "roll_no": 19,
+    "marks": 66,
+    "id": "S021",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Faizan Akhtar",
+    "roll_no": 20,
+    "marks": 89,
+    "id": "S022",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Youssef El Amrani",
+    "roll_no": 21,
+    "marks": 82,
+    "id": "S023",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Ahmed Benali",
+    "roll_no": 22,
+    "marks": 75,
+    "id": "S024",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Omar Zahraoui",
+    "roll_no": 23,
+    "marks": 91,
+    "id": "S025",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Hamza Boulahcen",
+    "roll_no": 24,
+    "marks": 70,
+    "id": "S026",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Khalid Ait Ben",
+    "roll_no": 25,
+    "marks": 88,
+    "id": "S027",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Rachid El Idrissi",
+    "roll_no": 26,
+    "marks": 79,
+    "id": "S028",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Said Amine",
+    "roll_no": 27,
+    "marks": 67,
+    "id": "S029",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Mustapha Rahmani",
+    "roll_no": 28,
+    "marks": 86,
+    "id": "S030",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Yassine Chafik",
+    "roll_no": 29,
+    "marks": 73,
+    "id": "S031",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Abdelilah Mounir",
+    "roll_no": 30,
+    "marks": 90,
+    "id": "S032",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Ismail Haddad",
+    "roll_no": 31,
+    "marks": 84,
+    "id": "S033",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Karim Bensouda",
+    "roll_no": 32,
+    "marks": 76,
+    "id": "S034",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Anas Toumi",
+    "roll_no": 33,
+    "marks": 81,
+    "id": "S035",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Zakaria Belkacem",
+    "roll_no": 34,
+    "marks": 69,
+    "id": "S036",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Hicham Naji",
+    "roll_no": 35,
+    "marks": 87,
+    "id": "S037",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Rustam Karimov",
+    "roll_no": 36,
+    "marks": 92,
+    "id": "S038",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Farrukh Rahmonov",
+    "roll_no": 37,
+    "marks": 78,
+    "id": "S039",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Jamshed Ismoilov",
+    "roll_no": 38,
+    "marks": 85,
+    "id": "S040",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Dilshod Qodirov",
+    "roll_no": 39,
+    "marks": 74,
+    "id": "S041",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Akmal Saidov",
+    "roll_no": 40,
+    "marks": 88,
+    "id": "S042",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Sherzod Davlatov",
+    "roll_no": 41,
+    "marks": 80,
+    "id": "S043",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Bahrom Nazarov",
+    "roll_no": 42,
+    "marks": 71,
+    "id": "S044",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Timur Azizov",
+    "roll_no": 43,
+    "marks": 83,
+    "id": "S045",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Kamoliddin Hakimov",
+    "roll_no": 44,
+    "marks": 77,
+    "id": "S046",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Suhrob Tursunov",
+    "roll_no": 45,
+    "marks": 90,
+    "id": "S047",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Bekzod Alimuhamedov",
+    "roll_no": 46,
+    "marks": 68,
+    "id": "S048",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Farhod Rakhimov",
+    "roll_no": 47,
+    "marks": 82,
+    "id": "S049",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Davron Safarov",
+    "roll_no": 48,
+    "marks": 75,
+    "id": "S050",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Azizbek Kurbonov",
+    "roll_no": 49,
+    "marks": 89,
+    "id": "S051",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Shokirjon Olimov",
+    "roll_no": 50,
+    "marks": 66,
+    "id": "S052",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Nouman Riaz",
+    "roll_no": 51,
+    "marks": 91,
+    "id": "S053",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Salman Sheikh",
+    "roll_no": 52,
+    "marks": 79,
+    "id": "S054",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Ibrahim Qureshi",
+    "roll_no": 53,
+    "marks": 84,
+    "id": "S055",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Adeel Chaudhry",
+    "roll_no": 54,
+    "marks": 72,
+    "id": "S056",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Mohsin Latif",
+    "roll_no": 55,
+    "marks": 86,
+    "id": "S057",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Haris Javed",
+    "roll_no": 56,
+    "marks": 70,
+    "id": "S058",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Abdul Rehman",
+    "roll_no": 57,
+    "marks": 88,
+    "id": "S059",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Rizwan Ashraf",
+    "roll_no": 58,
+    "marks": 76,
+    "id": "S060",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Faraz Ali",
+    "roll_no": 59,
+    "marks": 83,
+    "id": "S061",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "name": "Taha Siddiqui",
+    "roll_no": 60,
+    "marks": 90,
+    "id": "S062",
+    "status": "Active",
+    "created": "2025-12-26"
+  },
+  {
+    "id": "S063",
+    "name": "IKRAM UL HAQ",
+    "roll_no": "B202416010126",
+    "email": "pakikram8@gmail.com",
+    "phone": "15572969308",
+    "program": "Computer Science",
+    "dob": "2006-02-10",
+    "address": "Peshawar ,KPK  ,Pakistan",
+    "status": "Active",
+    "created": "2025-12-29"
+  }
+]

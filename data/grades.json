@@ -1,0 +1,200 @@
+[
+  {
+    "student_roll": "2024001",
+    "course_code": "CS101",
+    "assignments": 20.0,
+    "midterm": 25.0,
+    "final": 40.0,
+    "total": 85.0,
+    "grade": "B",
+    "gpa": 3.0,
+    "graded_date": "2025-12-26"
+  },
+  {
+    "student_roll": "1",
+    "course_code": "CS101",
+    "assignments": 20.0,
+    "midterm": 25.0,
+    "final": 40.0,
+    "total": 85.0,
+    "grade": "B",
+    "gpa": 3.0,
+    "graded_date": "2025-12-26"
+  },
+  {
+    "student_roll": "60",
+    "course_code": "CS101",
+    "assignments": 26.0,
+    "midterm": 30.0,
+    "final": 40.0,
+    "total": 96.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-26"
+  },
+  {
+    "student_roll": "4",
+    "course_code": "CS101",
+    "assignments": 10.0,
+    "midterm": 15.0,
+    "final": 20.0,
+    "total": 45.0,
+    "grade": "F",
+    "gpa": 0.0,
+    "graded_date": "2025-12-26"
+  },
+  {
+    "student_roll": "31",
+    "course_code": "CS101",
+    "assignments": 10.0,
+    "midterm": 20.0,
+    "final": 25.0,
+    "total": 55.0,
+    "grade": "F",
+    "gpa": 0.0,
+    "graded_date": "2025-12-26"
+  },
+  {
+    "student_roll": "30",
+    "course_code": "CS101",
+    "assignments": 20.0,
+    "midterm": 20.0,
+    "final": 25.0,
+    "total": 65.0,
+    "grade": "D",
+    "gpa": 1.0,
+    "graded_date": "2025-12-26"
+  },
+  {
+    "student_roll": "20",
+    "course_code": "CS101",
+    "assignments": 25.0,
+    "midterm": 30.0,
+    "final": 35.0,
+    "total": 90.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "5",
+    "course_code": "CS101",
+    "assignments": 25.0,
+    "midterm": 30.0,
+    "final": 35.0,
+    "total": 90.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "24",
+    "course_code": "CS101",
+    "assignments": 25.0,
+    "midterm": 28.0,
+    "final": 35.0,
+    "total": 88.0,
+    "grade": "B",
+    "gpa": 3.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "21",
+    "course_code": "CS101",
+    "assignments": 25.0,
+    "midterm": 28.0,
+    "final": 34.0,
+    "total": 87.0,
+    "grade": "B",
+    "gpa": 3.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "45",
+    "course_code": "CS101",
+    "assignments": 30.0,
+    "midterm": 28.0,
+    "final": 38.0,
+    "total": 96.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "58",
+    "course_code": "CS101",
+    "assignments": 30.0,
+    "midterm": 28.0,
+    "final": 38.0,
+    "total": 96.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "2",
+    "course_code": "CS101",
+    "assignments": 30.0,
+    "midterm": 28.0,
+    "final": 38.0,
+    "total": 96.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "18",
+    "course_code": "CS101",
+    "assignments": 27.0,
+    "midterm": 30.0,
+    "final": 38.0,
+    "total": 95.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "35",
+    "course_code": "CS101",
+    "assignments": 27.0,
+    "midterm": 30.0,
+    "final": 38.0,
+    "total": 95.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "16",
+    "course_code": "CS101",
+    "assignments": 27.0,
+    "midterm": 30.0,
+    "final": 38.0,
+    "total": 95.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "36",
+    "course_code": "CS101",
+    "assignments": 30.0,
+    "midterm": 26.0,
+    "final": 38.0,
+    "total": 94.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-29"
+  },
+  {
+    "student_roll": "B202416010126",
+    "course_code": "OOP101",
+    "assignments": 29.0,
+    "midterm": 28.0,
+    "final": 36.0,
+    "total": 93.0,
+    "grade": "A",
+    "gpa": 4.0,
+    "graded_date": "2025-12-29"
+  }
+]
